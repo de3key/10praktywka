@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.exe.config
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.exe
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.pdb
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Form1.resources
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Form2.resources
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.exe
+C:\Users\Lenovo\source\repos\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.pdb
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csproj.AssemblyReference.cache
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Form1.resources
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Form2.resources
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical_10._2021.Properties.Resources.resources
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csproj.GenerateResource.cache
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.csproj.CoreCompileInputs.cache
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.exe
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\obj\Debug\Practical-10.2021.pdb
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.exe.config
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.exe
+C:\Users\gnost\OneDrive\Рабочий стол\Practical-10.2021-main\Practical-10.2021\Practical-10.2021\bin\Debug\Practical-10.2021.pdb
